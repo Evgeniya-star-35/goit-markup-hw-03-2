@@ -233,7 +233,7 @@ body {
 .p-text {
   margin-top: 0;
   margin-bottom: 0;
-  font-weight: 400;
+  font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
   color: var(--secondary-text-color);
