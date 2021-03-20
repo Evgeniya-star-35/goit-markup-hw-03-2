@@ -190,17 +190,17 @@ body {
 }
 /*преимущества*/
 
-.section-advantages {
+.section-features {
   padding-top: 94px;
   padding-bottom: 0;
 }
-.advantages {
+.features {
   display: flex;
   flex-wrap: wrap;
   margin-top: -30px;
   margin-left: -30px;
 }
-.item-advantages {
+.item-features {
   margin-top: 30px;
   margin-left: 30px;
   flex-basis: calc((100% - 4 * 30px) / 4);
